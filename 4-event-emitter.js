@@ -14,7 +14,7 @@ customEmitter.on("response", ()=> console.log("Some other logic"));
 
 customEmitter.emit("response", "john", 34);
 
-
+ 
 
 
 
